@@ -1,0 +1,58 @@
+,City ID,City,Cloudiness,Country,Date,Humidity,Lat,Long,Max Temp,Wind Speed,Hotel Name
+2,2,Busselton,0,AU,1600301117,72,-33.65,115.33,11.11,2.68,Abbey Beach Resort
+28,28,Beloha,0,MG,1600301121,93,-25.17,45.05,17.75,1.82,
+36,36,Turkmenabat,0,TM,1600301121,45,39.07,63.58,17.0,2.1,Hotel Yupek Yoly (Silk Way)
+39,39,Bethel,0,US,1600300850,86,41.37,-73.41,16.67,2.94,Hampton Inn Danbury
+67,67,Port Hedland,0,AU,1600301126,69,-20.32,118.57,26.0,4.6,The Esplanade Hotel
+95,95,Ismailia,0,EG,1600301130,91,30.6,32.27,23.47,1.65,Tolip Alforsan Island Hotel And Spa
+99,99,Tortolì,0,IT,1600301130,60,39.93,9.66,23.0,6.2,Hotel La Bitta
+106,106,Kristinehamn,0,SE,1600301131,65,59.31,14.11,9.0,5.1,Sockerslottet Hotell
+109,109,Byron Bay,0,AU,1600301132,60,-28.65,153.62,22.78,1.0,Byron Bay Hotel and Apartments - Boutique Accommodation
+124,124,Stary Krym,0,UA,1600301133,74,45.03,35.1,16.35,1.73,
+132,132,Kysyl-Syr,0,RU,1600301134,72,63.9,122.76,8.14,0.98,
+148,148,Marsá Maţrūḩ,0,EG,1600301136,78,31.35,27.25,25.0,1.43,Air Force hotel
+155,155,Jalu,0,LY,1600301137,56,29.03,21.55,26.26,4.57,
+157,157,Mossamedes,0,AO,1600301137,72,-15.2,12.15,16.42,4.56,iu Hotel Namibe
+160,160,Assiut,0,EG,1600301138,54,27.18,31.18,26.0,2.1,Assiut hotels Armed Forces
+191,191,Ust-Maya,0,RU,1600301141,60,60.42,134.53,9.29,1.43,
+194,194,Carnarvon,0,AU,1600301142,59,-24.87,113.63,16.0,5.1,Hospitality Carnarvon
+211,211,Rodolfo Sánchez Taboada,0,MX,1600301144,70,31.72,-116.57,25.56,0.89,
+216,216,Manosque,0,FR,1600301146,94,43.83,5.79,15.56,2.04,"Hôtel Le Pré Saint Michel - Manosque, Luberon"
+231,231,Linköping,0,SE,1600301147,65,58.41,15.62,8.89,5.1,Hilma Winblads Bed and Breakfast
+234,234,Constitución,0,CL,1600301148,86,-35.33,-72.42,11.92,5.62,Hotel Playa El Cable
+240,240,Nelson Bay,0,AU,1600301148,49,-32.72,152.15,25.0,5.7,Oaks Pacific Blue Resort
+246,246,Asău,0,RO,1600301150,87,46.43,26.4,13.33,1.62,Pensiunea Sophia
+255,255,Ararat,0,AM,1600301151,43,39.83,44.7,22.0,2.1,B&B Sunrise House Aygavan
+263,263,Maxixe,0,MZ,1600301152,92,-23.86,35.35,21.62,3.71,Sanny Motel
+281,281,Batī,0,ET,1600301155,52,11.18,40.02,20.91,1.89,
+282,282,Kumul,0,CN,1600301155,30,42.8,93.45,16.62,1.18,China Telecom
+284,284,Camacupa,0,AO,1600301155,71,-12.02,17.48,16.54,0.15,
+288,288,Ballina,0,AU,1600301156,60,-28.87,153.57,22.78,1.0,Ramada Hotel & Suites by Wyndham Ballina Byron
+295,295,Korla,0,CN,1600301157,77,41.76,86.15,20.0,3.52,Kangcheng Jian Guo International Hotel
+297,297,Kargil,0,IN,1600301157,57,34.57,76.1,7.77,2.04,Hotel International Residency
+316,316,Tāybād,0,IR,1600301160,36,34.74,60.78,16.66,5.34,
+319,319,Bāfq,0,IR,1600301160,29,31.61,55.41,16.68,1.06,
+324,324,Ibrā’,0,OM,1600301160,66,22.69,58.53,24.4,0.98,Ibra Hotel
+326,326,Nouadhibou,0,MR,1600301161,74,20.93,-17.03,26.0,5.1,Hôtel Sahel
+340,340,Malokaterynivka,0,UA,1600301162,62,47.65,35.25,15.0,2.0,
+349,349,Centralina,0,BR,1600301164,33,-18.58,-49.2,26.07,3.32,MM Plaza Hotel
+352,352,Almaznyy,0,RU,1600301164,46,48.04,40.05,12.0,3.0,Gostinitsa Zverevo
+356,356,Yazd,0,IR,1600301165,25,31.9,54.37,19.0,0.81,Dad Hotel
+361,361,Antsohihy,0,MG,1600301165,79,-14.88,47.99,17.4,1.72,
+377,377,Burns Lake,0,CA,1600301167,43,54.23,-125.75,21.03,1.61,Key-oh Lodge
+431,431,Fort Saint James,0,CA,1600301176,49,54.43,-124.25,20.69,1.65,The View Hotel
+439,439,Angoche,0,MZ,1600301177,84,-16.23,39.91,22.45,4.23,
+443,443,Clarence Town,0,AU,1600301178,49,-32.58,151.78,25.0,5.7,Erringhi Hotel
+465,465,Mafeteng,0,LS,1600301181,50,-29.82,27.24,5.85,0.29,
+474,474,Kultuk,0,RU,1600301182,65,51.72,103.7,8.19,1.91,Байкальский Рай
+485,485,Inhambane,0,MZ,1600301183,91,-23.86,35.38,21.99,4.13,Sanny Motel
+492,492,Chase,0,CA,1600301184,56,50.82,-119.69,24.44,1.45,Jade Mountain Motel
+498,498,Ampanihy,0,MG,1600301185,86,-24.7,44.75,18.43,1.87,
+507,507,Bay Roberts,0,CA,1600301186,59,47.6,-53.26,10.0,4.47,The Bayside Bed and Breakfast
+508,508,Murgab,0,TM,1600301186,45,37.5,61.97,20.0,2.1,
+518,518,Aksu,0,CN,1600301187,35,41.12,80.26,17.01,0.42,Tianyuan International Hotel
+529,529,Alghero,0,IT,1600301189,100,40.56,8.32,19.0,0.5,Villa Las Tronas
+530,530,Nizhniy Baskunchak,0,RU,1600301189,55,48.22,46.83,11.04,3.14,Arman hotel
+540,540,Yerbogachën,0,RU,1600301190,72,61.28,108.01,8.08,0.81,
+543,543,Vicuña,0,CL,1600301191,82,-30.03,-70.71,13.0,3.6,Hostal Aldea del Elqui
+559,559,Khovd,0,MN,1600301193,50,48.01,91.64,9.38,0.83,Steppe hotel
