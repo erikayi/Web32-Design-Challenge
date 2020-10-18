@@ -1,0 +1,49 @@
+body {
+    padding: 50;
+    margin: 20;
+    font-family: 'Calibri', sans-serif;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: white;
+    align-content: center;
+  }
+
+header {
+    background: #333;
+}
+
+h1 {
+    padding: 30px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: green;
+    background-color: lightgreen;
+    text-align: left;
+}
+
+h2 {
+    color: green;
+    font-size: 24px;
+    text-align: center;
+}
+
+.introduction {
+    word-wrap: break-word;
+}
+
+.column {
+    float: left;
+    width: 24%;
+    padding: 9px;
+    align-content: center;
+}
+  
+  /* Clearfix (clear floats) */
+.row::after {
+    align-content: center;
+    content: "";
+    clear: both;
+    display: table;
+}
