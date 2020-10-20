@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualization Data</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+<body>
+    <!--nav bar start-->
+    <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <a href="index.html" class="navbar-brand" href="#">Latitude Data</a>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots<span
+                            class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="cloudiness.html">Cloudiness</a></li>
+                        <li><a href="humidity.html">Humidity</a></li>
+                        <li><a href="temperature.html">Temperature</a></li>
+                        <li><a href="windspeed.html">Wind Speed</a></li>
+                    </ul>
+                <li class="active"><a href="comparison.html">Comparison</a></li>
+                <li class="active"><a href="data.html">Data</a></li>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <!--nav bar end-->
+
+
+
+   
+        <h5 class="detail_title">Visualizations</h5>
+        <hr>
+        <p id="detail">Click below images to see the plots in detail.</p>
+
+        <div class="row">
+
+            <div class="column">
+                <h6>vs. Cloudiness</h6>
+            <a href="cloudiness.html"><img src="assets/Latitude_vs_Cloudiness.png" alt="Latitude_vs_Cloudiness"
+                    height="320" width="400" class="image"></a>
+            </div>
+            
+            <div class="column">
+                <h6>vs. Humidity</h6>
+                <a href="humidity.html"><img src="assets/Latitude_vs_Humidity.png" alt="Latitude_vs_Humidity" height="320"
+                        width="400" class="image"></a>
+            </div>
+            <div class="w-800"></div>
+            <div class="column">
+                <h6>vs. Temperature</h6>
+                <a href="temperature.html"><img src="assets/Latitude_vs_Temperature.png" alt="Latitude_vs_Temperature"
+                        height="320" width="400" class="image"></a>
+            </div>
+            
+            <div class="column">
+                <h6>vs. Wind Speed</h6>
+                <a href="windspeed.html"><img src="assets/Latitude_vs_Wind Speed.png" alt="Latitude_vs_Wind_Speed"
+                        height="320" width="400" class="image"></a>
+            </div>
+        
+    </div>
+
+
+
+
+</body>
+
+</html>

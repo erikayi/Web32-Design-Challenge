@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #cdcdcd;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.card-text {
+    text-indent: 20px;
+    color: black;
+}
+
+.card-text-2 {
+    text-indent: 20px;
+    color: black;
+}
+
+.card-text-3 {
+    text-indent: 20px;
+    color: black;
+}
+
+em {
+    color: grey;
+}
+
+.card-title {
+    font-size: 25px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    text-align: center;
+}
+
+.nav {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: white;
+}
+
+.navbar-header {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: white;
+    font-kerning: normal;
+}
+
+.title {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    color: teal;
+}
+
+.card {
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-right: 200px;
+    float: relative;
+    margin-bottom: 10px;
+    color: teal;
+    background-color: white;
+}
+
+.card-image a:hover {
+    opacity: 0.5; 
+}
+
+.card-image a:visited {
+    border: 5px solid teal;
+  }
+
+.column a:hover {
+    opacity: 0.5;
+}
+
+.column a:visited {
+    border: 5px solid teal;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
+
+.detail_title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    color: teal;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+#detail {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: black;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.row {
+    padding-left: 550px;
+    padding-right: 500px;
+}
+    
+.column {
+    display:inline-block;
+    vertical-align:bottom;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+    font-size: 20px;
+    font-weight: bold;
+}
+}
+  
+.d-print-inline-block {
+    float: left;
+    width: 50%;
+    padding: 5px;
+}
+  
+/* Clearfix (clear floats) */
+/* .row::after {
+    content: "";
+    clear: both;
+    display: table;
+} */
+
+.table-responsive {
+    margin-left: 580px;
+    margin-right: 580px;
+    padding: 10px;
+    column-width: auto;
+    text-align: center;
+    overflow-y:scroll;
+    height:700px;
+    display:block;
+    border: solid 5px teal;
+}
